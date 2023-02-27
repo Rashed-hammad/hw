@@ -1,0 +1,14 @@
+body{
+    background-color: red;
+}
+h1,
+h3{
+    text-align: center;
+}
+h3{
+    border-bottom: 1px solid white;
+}
+p{
+    border-top:  1px solid white;
+    padding-top: 30px;
+}
