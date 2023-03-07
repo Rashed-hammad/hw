@@ -1,14 +1,17 @@
 body{
-    background-color: red;
+    background-color: rgb(185, 185, 185);
 }
 h1,
 h3{
     text-align: center;
 }
 h3{
-    border-bottom: 1px solid white;
+    border-bottom: 1px solid black;
 }
 p{
-    border-top:  1px solid white;
+    border-top:  1px solid black;
     padding-top: 30px;
+}
+.contact{
+    margin-left: 30%;
 }
